@@ -1,0 +1,62 @@
+h1 {
+    color: green;
+    font-size: 30px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+body {
+    background-color: skyblue;
+}
+#margin {
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
+    cursor: pointer;
+    margin-left: 0;
+}
+.menu {
+    background-color:rgb(34, 31, 31);
+    left: 0;
+    width: 100%;
+    position: absolute;
+    height: 30px;
+}
+h2 {
+    color: brown;
+    font-size: 25px;
+    font-family: cursive;
+}
+.rat {
+    color: white;
+    background: darkturquoise;
+    font-size: 20px;
+    font-family: cursive;
+}
+h5 {
+    color: gold;
+    font-size: 25px;
+    font-family: cursive;
+}
+.rtpcr {
+    font-size: 20px;
+    font-family: cursive;
+    color: white;
+    background-color: hotpink;
+}
+h1 {
+    color: dodgerblue;
+    font-size: 25px;
+    font-family: cursive;
+}
+.hrct {
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+    background-color: mediumspringgreen;
+}
