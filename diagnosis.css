@@ -30,33 +30,34 @@ body {
 h2 {
     color: brown;
     font-size: 25px;
-    font-family: cursive;
+    font-family: arial;
 }
 .rat {
     color: white;
     background: darkturquoise;
     font-size: 20px;
-    font-family: cursive;
+    font-family: arial;
 }
 h5 {
     color: gold;
     font-size: 25px;
-    font-family: cursive;
+    font-family: arial;
 }
 .rtpcr {
     font-size: 20px;
-    font-family: cursive;
+    font-family: arial;
     color: white;
-    background-color: hotpink;
+    background-color: arial;
 }
 h1 {
     color: dodgerblue;
     font-size: 25px;
-    font-family: cursive;
+    font-family: aial;
 }
 .hrct {
     color: white;
     font-size: 20px;
-    font-family: cursive;
+    font-family: arial
+        ;
     background-color: mediumspringgreen;
 }
